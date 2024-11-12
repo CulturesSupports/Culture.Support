@@ -57,6 +57,19 @@ ollama run llama3.2
 - after its installed in application folder local on computer
 - run the gray window ollama run command in therminal
 
+
+```
+3 steps :
+
+- install ollama
+- install on local app folder
+- run ollama
+
+## ollama run llama3.2
+
+```
+
+- instert the command in terminal : 
 ------------------
 
 
