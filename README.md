@@ -20,7 +20,7 @@ https://www.llama2.ai/
 - use ai to generate llama generative data
 - train ai to do operative target agenda
 -
-- 
+- follow steps :
 
 ```
 
@@ -29,5 +29,8 @@ https://www.llama2.ai/
 - authenticate github
 
 ```
+
+
+- start chat experiment prompts on https://www.llama2.ai/
   
 ---------------
