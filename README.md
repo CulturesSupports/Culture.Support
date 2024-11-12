@@ -62,3 +62,11 @@ ollama run llama3.2
 
 
 - its the main olamma model, you start with train data for
+- experiment and commit to train datasets to commit special develop ai experiences
+
+-
+-
+- its datasets for program website with ai
+- its datasets for program apps
+- its datasets for design images with text image prompts
+- its datasets for design vidoes from text prompts
