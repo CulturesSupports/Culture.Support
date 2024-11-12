@@ -108,5 +108,17 @@ train ai to help automatic design website
 - train ai to make ebook story tellings
 
 ```
--
-- 
+
+---------------
+
+## Working with more advanced models selections : 
+
+just select and test in terminal as done in alternative 2 after install
+
+https://ollama.com/library
+
+
+```
+you find a model to put and train in terminal client
+
+```
