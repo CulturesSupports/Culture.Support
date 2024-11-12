@@ -122,3 +122,9 @@ https://ollama.com/library
 you find a model to put and train in terminal client
 
 ```
+
+```
+the olama repositories have a link window with a text command to put into terminal
+- seperate commands and usernames are by what model to train ai for
+
+```
