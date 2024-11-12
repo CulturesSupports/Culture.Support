@@ -70,3 +70,22 @@ ollama run llama3.2
 - its datasets for program apps
 - its datasets for design images with text image prompts
 - its datasets for design vidoes from text prompts
+
+
+
+```
+train ai to help automatic design website
+
+- train ai to design apps
+- train ai to design videos
+- train ai to design films
+- train ai to design youtube shorts videos
+- train ai to design background images
+- train ai to do help automation task of helping with answeers
+- train ai to become a mental health partner and friend
+- train ai to become a psychology expert
+- train ai to make ebook story tellings
+
+```
+-
+- 
