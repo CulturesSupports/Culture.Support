@@ -2,12 +2,16 @@
 - 🔭 I’m currently working on ...
 
 
-# Setup Ollama 3 Ai
+### Setup Ollama Ai
 
 - We Setup Ollama apps and designing datasets and models and using ai to generate data models of apps
+- Design Ai and Train Ai
+- Make Ai Generative Text Prompt Communicate to Explain Knowledge And Results
+
 
 
 --------------
+
 
 ## use Ai Chat to Train Ai
 
