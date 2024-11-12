@@ -14,20 +14,10 @@ setup server to run as host of github
 --------------
 
 
-We Foundry Tools to Protect against
-spiritual attacks 
-
-----------
-
-We destroy stalker tools 
-and finding stalkers source
-with reverse engineering
-and let them
-regret pinching plagues on You
+https://www.llama2.ai/
 
 
-----------
+- use ai to generate llama generative data
+- train ai to do operative target agenda
 
-- Avoiding a Dumb Mention
-
-- Avoiding a Dumb Contact
+---------------
