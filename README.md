@@ -35,3 +35,30 @@ https://www.llama2.ai/
 - start chat experiment prompts on https://www.llama2.ai/
   
 ---------------
+
+
+
+### alternative 2 : run local in terminal 
+
+https://ollama.com/download
+
+- register user
+- download ollama
+- run ollama after download
+- paste this command in terminal
+
+```
+
+ollama run llama3.2
+
+```
+
+- you will need to download olama and install it local on machine
+- after its installed in application folder local on computer
+- run the gray window ollama run command in therminal
+
+------------------
+
+
+
+- its the main olamma model, you start with train data for
