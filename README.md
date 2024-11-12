@@ -61,11 +61,12 @@ ollama run llama3.2
 ```
 3 steps :
 
-- install ollama
-- install on local app folder
-- run ollama
 
-## ollama run llama3.2
+- install Ollama on local app folder
+- run ollama
+- insert this command in terminal after opened ollama installed software
+
+ollama run llama3.2
 
 ```
 
