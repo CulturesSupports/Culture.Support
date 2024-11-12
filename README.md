@@ -28,4 +28,6 @@ regret pinching plagues on You
 
 ----------
 
+- Avoiding a Dumb Mention
 
+- Avoiding a Dumb Contact
