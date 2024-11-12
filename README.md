@@ -13,7 +13,7 @@
 --------------
 
 
-## use Ai Chat to Train Ai
+## use Ai Chat to Train Ai ( restrictive to few prompts testing )
 
 https://www.llama2.ai/
 
