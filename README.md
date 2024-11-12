@@ -38,7 +38,7 @@ https://www.llama2.ai/
 
 
 
-### alternative 2 : run local in terminal 
+### alternative 2 : run local in terminal ( the way to unlimited endless prompt ai )
 
 https://ollama.com/download
 
