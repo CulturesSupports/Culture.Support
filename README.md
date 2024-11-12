@@ -2,13 +2,9 @@
 - 🔭 I’m currently working on ...
 
 
-setup server to run as host of github
+# Setup Ollama 3 Ai
 
-- ⚡ Fun fact:
--
--   We Deloy Server
--   Use Hosting on Github
-
+- We Setup Ollama apps and designing datasets and models and using ai to generate data models of apps
 
 
 --------------
