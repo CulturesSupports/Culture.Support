@@ -70,7 +70,14 @@ ollama run llama3.2
 
 ```
 
-- instert the command in terminal : 
+- instert only this command in terminal :
+
+```
+
+ollama run llama3.2
+
+```
+
 ------------------
 
 
