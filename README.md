@@ -1,8 +1,5 @@
 
-## Github info
 
-finding things about github : 
-https://learn.microsoft.com/en-gb/training/github/
 
 
 
