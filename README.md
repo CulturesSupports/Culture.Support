@@ -33,6 +33,8 @@ along with the source code instructions
 - the code also can be managed solve our code waited 100 projects
 and become a pro organisation of understand programming faster
 - with ai code tools  we enabled understand python and c++ in few hours
+- we went from not doing anything other than research
+ to outfolding operate a ai organisation and execute coder projects
 
 ```
 
