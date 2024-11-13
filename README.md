@@ -39,6 +39,11 @@ and become a pro organisation of understand programming faster
 ```
 
 
+https://ollama.com/library
+
+
+- with ollama run localy we dont need the waiting time on ollama 2 ready prompt on Facebook Meta
+
 --------------
 --------------
 --------------
