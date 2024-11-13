@@ -1,6 +1,13 @@
 
-- 🔭 I’m currently working on ...
+## Github info
 
+finding things about github : 
+https://learn.microsoft.com/en-gb/training/github/
+
+
+
+
+## 🔭 I’m currently working on ...
 
 ### Setup Ollama Ai
 
