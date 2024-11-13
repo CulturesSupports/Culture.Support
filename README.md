@@ -157,6 +157,6 @@ the olama repositories have a link window with a text command to put into termin
 ```
 
 
-We are now so Dedicate
+This means we now runs ai on specific kernel instance with mobilenets for mentioning traininng the specific kernel phone OS
 
-
+![image](https://github.com/user-attachments/assets/acc3196f-d6d2-40c9-911a-bf916a9c04d9)
