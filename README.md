@@ -29,6 +29,11 @@ https://huggingface.co/docs/autotrain/quickstart_spaces
 
 ----------------
 -----------------
+
+
+![image](https://github.com/user-attachments/assets/1e2c6d04-243a-4be9-aba0-811250c41783)
+
+
 ## Apps Developed By The Huggingface Community
 
 Apps  you can test inside the website without local install needs
