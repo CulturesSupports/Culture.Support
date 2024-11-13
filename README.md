@@ -26,10 +26,24 @@ https://huggingface.co/docs/autotrain/quickstart_spaces
 - remember to insert a api key before starting huggin face project
 - some datasets require api insertion key from huggingface api
 
+
 ----------------
+-----------------
+## Apps Developed By The Huggingface Community
 
+Apps  you can test inside the website without local install needs
 
+https://huggingface.co/spaces
 
+----------------
+-----------------
+-----------------
+-----------------
+-----------------
+
+----------------
+-----------------
+-----------------
 -----------------
 -----------------
 
