@@ -36,6 +36,8 @@ https://www.llama2.ai/
   
 ---------------
 
+![image](https://github.com/user-attachments/assets/752b025e-0171-4a4f-a20e-eb97125a939a)
+
 
 
 ### alternative 2 : run local in terminal ( the way to unlimited endless prompt ai )
