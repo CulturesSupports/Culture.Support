@@ -36,7 +36,44 @@ Apps  you can test inside the website without local install needs
 https://huggingface.co/spaces
 
 ----------------
+
+### Here is a Real Example App Where You Can Generate images 
+
+- example type into the app : 
+
+```
+a girl on beach are using sun glasses
+
+```
+
+
+```
+a random image of a history event
+
+```
+
+
+```
+a  robot running weapons from star wars movie
+
+```
+
+```
+a hollywood 3d figure movie , ready for a film set
+
+```
+
+
+https://huggingface.co/spaces/mukaist/Midjourney
+
 -----------------
+
+
+
+
+
+
+
 -----------------
 -----------------
 -----------------
