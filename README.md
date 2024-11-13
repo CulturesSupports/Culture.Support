@@ -128,3 +128,35 @@ the olama repositories have a link window with a text command to put into termin
 - seperate commands and usernames are by what model to train ai for
 
 ```
+
+
+
+---------------
+---------------
+---------------
+---------------
+---------------
+
+
+### Results in Ai Training App of Machine Learning Using Tensorflow
+
+- the ai developed a instance app in ai to perform generate a library drift app for specific iphone 13
+  and allocation run 7% of the instance for techologies image recognition and Image classifications
+
+
+  - This means we solved a interface run of iphone 13 kernel run specific optimisation and enabled command prompt a development
+  in 10 minutes and start the app dividend into c++ and python
+- it also runned the library of tensorflow
+- it also runned the needed code for execute the specific kernel as Mobilenet Tensorflow model without mention the prompts
+
+
+```
+
+>>> Make a Tensorflow app for image recognition and image classification for mobile kernel processing 7% source allocation runs of iphone13 kernel OS
+
+```
+
+
+We are now so Dedicate
+
+
