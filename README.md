@@ -175,4 +175,4 @@ This means we now runs ai on specific kernel instance with mobilenets for mentio
 TensorflowiphoneKernel.txt
 
 
-
+https://github.com/CulturesSupports/CulturesSupports/blob/main/TensorflowiphoneKernel.txt
