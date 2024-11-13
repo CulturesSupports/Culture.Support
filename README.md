@@ -176,3 +176,7 @@ TensorflowiphoneKernel.txt
 
 
 https://github.com/CulturesSupports/CulturesSupports/blob/main/TensorflowiphoneKernel.txt
+
+
+
+### This is the result of what ai coded for us in under 10 minutes 
