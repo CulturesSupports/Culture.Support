@@ -44,7 +44,20 @@ https://ollama.com/library
 
 - with ollama run localy we dont need the waiting time on ollama 2 ready prompt on Facebook Meta
 
+
+
+
+
+
+
+
 --------------
+
+14:14 in this video we learned how to generate and use the Ollama libraries by this guys tutorial on explain how to run a ollama prompt
+
+https://youtu.be/V6LDl3Vjq-A?si=N4aQSaozzFfY9t2s
+
+
 --------------
 --------------
 --------------
