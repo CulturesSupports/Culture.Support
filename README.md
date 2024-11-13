@@ -22,6 +22,14 @@ But Without The Hassle Drop of Limits
 
 
 --------------
+--------------
+--------------
+--------------
+--------------
+--------------
+
+
+
 
 
 ## use Ai Chat to Train Ai ( restrictive to few prompts testing )
