@@ -1,6 +1,37 @@
 
 
+## Using Huggingface datasets 
 
+https://huggingface.co/docs/datasets/quickstart
+
+
+## Using Huggingface Chat Local Host 
+
+
+
+https://huggingface.co/docs/chat-ui/index
+
+
+
+## Training a Datasets with AutoTrain 
+
+
+https://huggingface.co/docs/autotrain/quickstart_spaces
+
+
+![image](https://github.com/user-attachments/assets/c9bdb349-e688-4337-855e-30d12d1d398d)
+
+
+
+- remember to insert a api key before starting huggin face project
+- some datasets require api insertion key from huggingface api
+
+----------------
+
+
+
+-----------------
+-----------------
 
 
 
