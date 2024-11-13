@@ -137,6 +137,10 @@ the olama repositories have a link window with a text command to put into termin
 ---------------
 ---------------
 
+![image](https://github.com/user-attachments/assets/0e3d835d-e0f2-4073-8f6b-55050570d1ed)
+
+
+
 
 ### Results in Ai Training App of Machine Learning Using Tensorflow
 
