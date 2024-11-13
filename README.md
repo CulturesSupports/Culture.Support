@@ -156,7 +156,9 @@ the olama repositories have a link window with a text command to put into termin
 
 ```
 
->>> Make a Tensorflow app for image recognition and image classification for mobile kernel processing 7% source allocation runs of iphone13 kernel OS
+>>> Make a Tensorflow app for image recognition and image classification
+for mobile kernel processing
+7% source allocation runs of iphone13 kernel OS
 
 ```
 
