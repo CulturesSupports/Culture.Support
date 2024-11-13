@@ -30,6 +30,8 @@ along with the source code instructions
 
 - ai enables us get in the place we are for finding out our agenda of using correct code development
 - and use a nice interface to manage a professional ai code development help tool
+- the code also can be managed solve our code waited 100 projects and become a pro organisation of understand programming
+faster
 
 ```
 
