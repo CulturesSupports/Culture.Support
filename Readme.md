@@ -19,16 +19,17 @@ Just by having a iPhone about iPhone 12 and above .
 
 -----------
 
-Running the local application for the suit of the performance triggering clean graphic user in their face for text prompting. 
+- Running the local application for the suit of the performance triggering clean graphic user in their face for text prompting. 
 
-use llm studio 
+### use LM studio 
 
+https://lmstudio.ai/
 
 -
 
 
-Mollama application for generating
-Moles, with llama on iphone 
+### Mollama application for generating
+### Models, with llama on iphone 
 
 https://www.mollama.com/
 
