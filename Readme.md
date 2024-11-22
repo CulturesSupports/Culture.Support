@@ -17,11 +17,31 @@ You have the force now to involve prompting models with Mollama
 The colonel from iPhone 12 and our bow will presently run this various smoothly and fast models outcomes because the machinery in those models fits fast transfer texting understanding with generative AI and text prompting so it's fetching up fast speed of generating code 
 Just by having a iPhone about iPhone 12 and above .
 
+-----------
+
+Running the local application for the suit of the performance triggering clean graphic user in their face for text prompting. 
+
+use llm studio 
+
+
+-
+
+
+Mollama application for generating
+Moles, with llama on iphone 
+
+https://www.mollama.com/
 
 
 
+- This running function, models and text pro thing and coding and cover for great making repositories on tub with professional outcome, layout and get AI for making sophisticated application with outcome of settling in the future demands
 
-
+- It can make also flutter applications and flutter in database technologies and serving fast trigger widgets. It's the fastest way possible to make a application with widgets for a flutter.
+- Special future for conductive matter, realization trigger real flutter applications with evil interface signs prompting by generative AI
+- So it's special suited for fast tracking out and finding what application you are making in mother of flutter
+- now you have a chance to make a flutter application in so little time us five minutes to have a full specific development of the flutter application that earlier took a day and maybe some weeks it snow and chance of you made prompted down to be made in five minutes for a flutter application and you don't need thousand code teams searching
+- This application AI is prompting this set of futures in mother of 5 to 10 minutes and your versatile have split structures the application in beauty fuel application forms with code presentations assigned step-by-step, how to install the necessary libraries to run the applications and the necessary widgets you should connect to make it enabled for fuel a good professional description product realization in code instruction
+  
 
 ----------
 --------------
