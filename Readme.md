@@ -1,5 +1,34 @@
 
 
+our performance is now liquidated in to open for applications to run modern
+Code tools in the iOS kernel
+
+
+wefound application to be used  on iPhone to run ollama models
+
+That same as having the models of Mollama running on iphone
+
+Mollama is the only application available as a running the full suits that offer for ollama models
+
+Duck means you can run as a computer on iPhone device and even fine-tune these models chat prompts on the phone as a computer or as a iMac or as a MacBook Pro but you simply using your iPhone and using Mollama application
+
+You have the force now to involve prompting models with Mollama
+
+The colonel from iPhone 12 and our bow will presently run this various smoothly and fast models outcomes because the machinery in those models fits fast transfer texting understanding with generative AI and text prompting so it's fetching up fast speed of generating code 
+Just by having a iPhone about iPhone 12 and above .
+
+
+
+
+
+
+
+----------
+--------------
+
+-------------------
+
+
 ## Using Huggingface datasets 
 
 https://huggingface.co/docs/datasets/quickstart
