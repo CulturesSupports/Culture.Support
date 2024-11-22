@@ -25,7 +25,10 @@ Just by having a iPhone about iPhone 12 and above .
 
 https://lmstudio.ai/
 
--
+----------------
+
+
+![image](https://github.com/user-attachments/assets/4e3ae75d-eeb6-457f-b551-b4d32e436464)
 
 
 ### Mollama application for generating
