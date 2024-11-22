@@ -19,7 +19,7 @@ Just by having a iPhone about iPhone 12 and above .
 
 -----------
 
-- Running the local application for the suit of the performance triggering clean graphic user in their face for text prompting. 
+### Running the local application for the suit of the performance triggering clean graphic user in their face for text prompting. 
 
 ### use LM studio 
 
