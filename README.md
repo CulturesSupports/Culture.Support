@@ -26,3 +26,8 @@ we are also addicted in field form of
   - lies about the cases ongoing with victims
   - Finding question of life, proportion triggers of lying
   - Setting person to comfortably be disabled into a section or discipline of interiors
+
+
+- finding out if the criminology involves covering a fraud
+- Finding out if paid involvement stuff is criminal hiding the defender relation
+- Ongoing pursuit testing if the situation is a stealing or a crime of corruption of allegation, put victims for scamming them under measurement of any stock units involved in case scenario
