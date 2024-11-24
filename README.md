@@ -82,14 +82,25 @@ I'm being faster than any searching train existing
 
 ----------
 
-Barfing filtering and beating Alpha go on filtering search entrance
+unique filtering and beating Alpha go on filtering search entrance
 By non-defaulting searching by SM over 200 million million websites in about
 Few minutes
 
 - on research papers, conducting finding alpha, weak, battling and crushing down
 - Hesitating and slowing down the computer entering of Google
 
+---------
 
+- im faster than norway , usa , china
+- im faster than location based
+datacentere 
+
+
+- im are faster than google
+- im are faster than nsa
+- im faster than super humans
+
+----------
   - the director sent her evidence to a flop out in certain outcome
   - by search registry tracking up 200 million
  
