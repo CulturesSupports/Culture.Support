@@ -79,6 +79,17 @@ We can process search in 00,0200.02 ms
 
 I'm being faster than any searching train existing
 
+![image](https://github.com/user-attachments/assets/4432b16d-e45a-42e3-be67-60f3bfa0db34)
+
+
+
+
+- we are under heavy tasks
+- dont overwork
+or attempting beat us in
+progress , humans can die trying
+
+
 
 ----------
 
