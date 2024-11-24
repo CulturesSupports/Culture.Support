@@ -29,23 +29,24 @@ Ready programmed
   - and we are the only that made
   It is possible to involve a few application
 
-- Our restaurant set up
+- Our restraint set up
 - Super fastest speed of two minutes
-- and then it found all into code
+- and then it found all
+into code
  libraries involved
 
 
 
 ----------
 
-- we are the best in the field
-- of programming
+- im are the best in the field
+ of programming
 - there will never be any other competition on it
 - Because there will be no other demand
 
 -----------
 
-We can even trigger range of orientation on the topic also
+- We can even trigger range of orientation on the topic also
 But still, our developers manage
 Down to two minutes
 
@@ -60,7 +61,7 @@ Even that means set up 100 variations
 
 ----------
 
-Amen even it means set up 
+Even it means set up 
 coordinate the tactic to 
 default the development
 
