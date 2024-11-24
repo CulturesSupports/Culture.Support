@@ -8,7 +8,7 @@
 ###
 
 i'm the only person that
-Ing in two minutes 
+coding in two minutes 
 
 
 We have an application ready 
