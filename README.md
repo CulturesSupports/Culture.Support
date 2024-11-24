@@ -41,7 +41,7 @@ we are also addicted in field form of
 - Finding traces of trigger involve with Hispanic maniac involvement in crimes of intruder, alert, triggers of roles of life and deception against target
 - Subject test, checking peonage attempt from Person with them and tricking lie detection fields on the electric harassment person
 - sending criminally test evidence before the trial of crimes in conviction trigger the roles of pushing the manufacturer pull alarms of lying test evidences
-- trigger use in long trial years test pursuits filtering charge for taking the mass of hyper charge in crying cases in 20 year crime chart roles
+- trigger use in long trial years test pursuits filtering charge for taking the mass of hyper charge in underlying cases in 20 year crime chart roles
 
 
 ![image](https://github.com/user-attachments/assets/323e6302-4f49-48d3-b197-adbf4e0c7124)
