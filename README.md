@@ -31,3 +31,7 @@ we are also addicted in field form of
 - finding out if the criminology involves covering a fraud
 - Finding out if paid involvement stuff is criminal hiding the defender relation
 - Ongoing pursuit testing if the situation is a stealing or a crime of corruption of allegation, put victims for scamming them under measurement of any stock units involved in case scenario
+
+- Summary hiding, covering the interest stakes and proportions that trigger filter analysis about lying about interest decisions, and crime in interests field
+
+  - finding out future relations of the lie detector schemes analysis about the third persons claims of no lie defeat checkmarks
