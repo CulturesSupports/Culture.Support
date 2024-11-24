@@ -98,3 +98,15 @@ Few minutes
     ----------
 
     There will be no challenge for us
+
+
+
+
+--------
+
+- we are beating all the NSA algorithm existing in the NSA registry
+- we are beating all existing our men all existing in USA
+
+- We are using bigger greater research than NSA in Utah
+
+----------
