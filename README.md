@@ -35,3 +35,11 @@ we are also addicted in field form of
 - Summary hiding, covering the interest stakes and proportions that trigger filter analysis about lying about interest decisions, and crime in interests field
 
   - finding out future relations of the lie detector schemes analysis about the third persons claims of no lie defeat checkmarks
+
+
+
+
+
+ ![image](https://github.com/user-attachments/assets/b647440c-ecd1-444e-b2ee-7171225d90db)
+
+
