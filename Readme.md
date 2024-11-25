@@ -1,59 +1,13 @@
-A frontend developer from
-
-- Ålesund
-
-Develops Repository Stuff
 
 
-----------
 
-### How To Make This Page
+A Person maintain Repository
+and Obtain Qualification 
+for
 
-This is made with readme Generator 
-
-https://rahuldkjain.github.io/gh-profile-readme-generator/
-
-- remember put githubusername into
-the github username inside repository generator
-
-```
-copy githubusername 
-paste it inside 
-githubusername/githubusername 
-after adding repository
-file Readme.md
-
-
-if you have lutonixdriftsix 
-as username
-
-you must make repository name
-lutonixdriftsix/lutonixdriftsix/
-readme.md
-
-```
-
-Readme.md 
-
-- Signup A Github Profile Name
-
-- Repository
-
-- Github Username / Github Username 
-
-- Add file name : Readme.md 
-
-- copy and paste the readme generator
-information into Readme.md 
-
-- add githubusername inside readme generator
-
-- copy and paste direct inside 
-readme.md file
-inside 
-githubusername/githubusername 
-profile repository
-
+- Certificate
+- Training
+- Code Certification
 
 -----------
 
