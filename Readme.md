@@ -22,15 +22,18 @@ Readme.md
 
 - Github Username / Github Username 
 
-- Readme.md 
+- Add file name : Readme.md 
 
 - copy and paste the readme generator
-information 
+information into Readme.md 
 
-- add username inside readme generator
+- add githubusername inside readme generator
 
-- copy and paste direct inside readme.md file
-inside githubusername/githubusername profile repository
+- copy and paste direct inside 
+readme.md file
+inside 
+githubusername/githubusername 
+profile repository
 
 
 -----------
