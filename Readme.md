@@ -24,6 +24,15 @@ Readme.md
 
 - Readme.md 
 
+- copy and paste the readme generator
+information 
+
+- add username inside readme generator
+
+- copy and paste direct inside readme.md file
+inside githubusername/githubusername profile repository
+
+
 -----------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=culturessupports&label=Profile%20views&color=0e75b6&style=flat" alt="culturessupports" /> </p>
