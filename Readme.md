@@ -13,6 +13,15 @@ This is made with readme Generator
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 
+- remember put githubusername into
+the github username inside repository generator
+
+```
+copy githubusername 
+paste it inside githubusername/githubusername repository
+file Readme.md
+
+```
 
 Readme.md 
 
