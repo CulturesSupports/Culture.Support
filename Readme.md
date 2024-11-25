@@ -23,6 +23,14 @@ githubusername/githubusername
 after adding repository
 file Readme.md
 
+
+if you have lutonixdriftsix 
+as username
+
+you must make repository name
+lutonixdriftsix/lutonixdriftsix/
+readme.md
+
 ```
 
 Readme.md 
