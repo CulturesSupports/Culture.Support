@@ -18,7 +18,9 @@ the github username inside repository generator
 
 ```
 copy githubusername 
-paste it inside githubusername/githubusername repository
+paste it inside 
+githubusername/githubusername 
+after adding repository
 file Readme.md
 
 ```
