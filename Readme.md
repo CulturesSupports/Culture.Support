@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Culturessupports</h1>
-<h3 align="center">A passionate frontend developer from </h3>
+A frontend developer from
 
 - Ålesund
+
+
+-----------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=culturessupports&label=Profile%20views&color=0e75b6&style=flat" alt="culturessupports" /> </p>
 
