@@ -2,8 +2,12 @@ A frontend developer from
 
 - Ålesund
 
+Develops Repository Stuff
 
 
+----------
+
+### Readme How To
 
 This is made with readme Generator 
 
