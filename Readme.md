@@ -1,13 +1,11 @@
 
 Person Living in Ålesund
 
-A Person maintain Repository
-and Obtain Qualification 
-for
+Delegation Procedure : In Tactical Repository Growth And Arsenal Of Companies
+To Envolve Fortfiers. 
 
-- Certificate
-- Training
-- Code Certification
+Is Delegation Locks 13 % Company Interest Trough Organisations
+is the 62 th biggest companies sheduler and have no investor objectives
 
 -----------
 
