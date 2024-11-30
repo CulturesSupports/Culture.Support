@@ -10,6 +10,11 @@ is the 62 th biggest companies sheduler and have no investor objectives
 off Assets Running of Market Triggers Companies into Non Obligations Turned Companies
 And That Sendt Our Delegation To Europe Biggest Structure Holder
 
+Its Holded 10 Year Onto The Vechicle of Europe Despite Holded Circumstanses of Brexit and other Triggers , 
+But Fundamental Bringed Run As 62 th Biggest with 13 % Structure Cap
+
+Foundation Sets a 160000 + Employee Staff
+
 
 -----------
 
