@@ -14,6 +14,12 @@ Person Living in Ålesund
 - im not trusting people
 - Im not Asking you to trust people
 
+------------
+
+- Im not advice you to hack or spying or deprivate materials
+- im not ask you to handle consequenses
+
+
 
 im here to code own pro daytime 
 -----------
