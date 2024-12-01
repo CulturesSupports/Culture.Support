@@ -42,6 +42,9 @@ Person Living in Ålesund
 
 - a philosophy as stealing work place titles is not the same as become original and valued
 
+- a fake value theft is not the same as having the original honor
+
+
 im here to code own pro daytime repository work
 -----------
 
