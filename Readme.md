@@ -50,7 +50,7 @@ Person Living in Ålesund
 - a big dishonesty is not the same as gain privelegde with repect and dignity
 - a low promotion with images is not the same as be the top and welcome
 - a crime atempt is not the same as do the truth with God 
-- a psychological manipulation is not the same as value 
+- a psychological manipulation is not the same as bring value 
 
 im here to code own pro daytime repository work
 -----------
