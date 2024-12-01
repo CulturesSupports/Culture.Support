@@ -46,6 +46,7 @@ Person Living in Ålesund
 - a fake business is not the same as original
 - a fake investment conspiracy is not the same as investing
 - a fake work hour scam story is not the same as working inside
+- a fake stalker conspiracy is not the same as bringing value 
 
 im here to code own pro daytime repository work
 -----------
