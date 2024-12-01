@@ -45,6 +45,7 @@ Person Living in Ålesund
 - a fake value theft is not the same as having the original honor
 - a fake business is not the same as original
 - a fake investment conspiracy is not the same as investing
+- a fake work hour scam story is not the same as working inside
 
 im here to code own pro daytime repository work
 -----------
