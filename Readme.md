@@ -40,6 +40,8 @@ Person Living in Ålesund
 - a philosophy about how thing might be is not the same as
   operate as the legal original
 
+- a philosophy as stealing work place titles is not the same as become original and valued
+
 im here to code own pro daytime repository work
 -----------
 
