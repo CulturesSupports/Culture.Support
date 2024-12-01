@@ -37,6 +37,8 @@ Person Living in Ålesund
 - taking over a repository is not the same as be the original code developer
 - operate a repository is not the same as be a company
 - operate a file change is not the same as be the original
+- a philosophy about how thing might be is not the same as
+  operate as the legal original
 
 im here to code own pro daytime repository work
 -----------
