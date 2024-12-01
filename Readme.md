@@ -65,7 +65,7 @@ Person Living in Ålesund
 
 ------------
 
-a fake joke is not the same as run a ticket ipulsive present a good comedy show involvement
+a fake joke is not the same as run a show ticket and ipulsive present a good comedy show involvement
 
 -------------
 
