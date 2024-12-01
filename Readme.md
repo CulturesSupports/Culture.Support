@@ -47,7 +47,7 @@ Person Living in Ålesund
 - a fake investment conspiracy is not the same as investing
 - a fake work hour scam story is not the same as working inside
 - a fake stalker conspiracy is not the same as bringing value 
-- a bog dishonesty is not the same as gain privelegde with repect and dignity
+- a big dishonesty is not the same as gain privelegde with repect and dignity
 
 
 im here to code own pro daytime repository work
