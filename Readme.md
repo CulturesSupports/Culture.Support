@@ -35,6 +35,8 @@ Person Living in Ålesund
 
 - pushing fork on repository is never same as have the original
 - taking over a repository is not the same as be the original code developer
+- operate a repository is not the same as be a company
+- operate a file change is not the same as be the original
 
 im here to code own pro daytime repository work
 -----------
