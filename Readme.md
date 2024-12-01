@@ -51,6 +51,8 @@ Person Living in Ålesund
 - a low promotion with images is not the same as be the top and welcome
 - a crime atempt is not the same as do the truth with God 
 - a psychological manipulation is not the same as bring value 
+- a mental criminal task is not the same as operate for legal practice
+
 
 im here to code own pro daytime repository work
 -----------
