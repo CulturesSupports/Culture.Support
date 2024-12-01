@@ -6,8 +6,10 @@ Person Living in Ålesund
 
 - We dont ask you to send companies money
 
-- we dont ask you to join us
-- we dont ask for leaders
+- We Dont ask you to join us
+- We Dont Ask For Leaders
+- We Dont Ask For Personal Favours for Others
+- We Dont Ask You For Advices
 
 -----------
 
