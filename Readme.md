@@ -2,8 +2,12 @@
 Person Living in Ålesund
 
 
+# security update here
 
-We dont ask you to send companies money
+- We dont ask you to send companies money
+
+- we dont ask you to join us
+- we dont ask for leaders
 
 -----------
 
