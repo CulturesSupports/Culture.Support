@@ -60,6 +60,9 @@ Person Living in Ålesund
 - a return to invest will never be same as invested
 - a investment claim is not the same as company original
 - a corrupt investment scheme is not the same as holding original stocks
+- a deprivated fake claim is not the same as be impressed
+- a preassure tactic is not the same as honor full friendship
+
 
 im here to code own pro daytime repository work
 -----------
