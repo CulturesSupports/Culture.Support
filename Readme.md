@@ -52,7 +52,8 @@ Person Living in Ålesund
 - a crime atempt is not the same as do the truth with God 
 - a psychological manipulation is not the same as bring value 
 - a mental criminal task is not the same as operate for legal practice
-
+- a wrongfully self image is not the same as looking permanently
+- a feel of not having freedom is not the same as quality life
 
 im here to code own pro daytime repository work
 -----------
