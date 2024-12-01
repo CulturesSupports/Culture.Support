@@ -57,7 +57,8 @@ Person Living in Ålesund
 - a return without warning is not the same as stopping threat
 - a return of repect will never be same as accepted
 - a return as friend is never a obligation
-- 
+- a return to invest will never be same as invested
+- a investment claim is not the same as company original
 
 
 im here to code own pro daytime repository work
