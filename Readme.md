@@ -10,7 +10,9 @@ Person Living in Ålesund
 - We Dont Ask For Leaders
 - We Dont Ask For Personal Favours for Others
 - We Dont Ask You For Advices
+- Im Not Cover Up Private Life
 
+im here to code own pro daytime 
 -----------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=culturessupports&label=Profile%20views&color=0e75b6&style=flat" alt="culturessupports" /> </p>
