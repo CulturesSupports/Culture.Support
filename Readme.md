@@ -26,8 +26,11 @@ Person Living in Ålesund
 
 - operate under only whats inside github documentation
   of how to manage github safe and respectfull
-
-
+  
+- read community guidance
+- read how to do code interviews
+- read how to stars a repository self
+- read how to fork a repository
 
 
 im here to code own pro daytime repository work
