@@ -48,7 +48,7 @@ Person Living in Ålesund
 - a fake work hour scam story is not the same as working inside
 - a fake stalker conspiracy is not the same as bringing value 
 - a big dishonesty is not the same as gain privelegde with repect and dignity
-
+- a low promotion with images is not the same as be the top and welcome
 
 im here to code own pro daytime repository work
 -----------
