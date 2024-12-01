@@ -4,12 +4,12 @@ Person Living in Ålesund
 
 ### Security Update Here
 
-- We dont ask you to send companies money
-
-- We Dont ask you to join us
-- We Dont Ask For Leaders
-- We Dont Ask For Personal Favours for Others
-- We Dont Ask You For Advices
+- im dont ask you to send companies money
+- im not giving something
+- Im not ask you to join us
+- Im Dont Ask For Leaders
+- Im Dont Ask For Personal Favours for Others
+- Im Dont Ask You For Advices
 - Im Not Cover Up Private Life
 
 im here to code own pro daytime 
