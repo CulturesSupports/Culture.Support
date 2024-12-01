@@ -49,6 +49,8 @@ Person Living in Ålesund
 - a fake stalker conspiracy is not the same as bringing value 
 - a big dishonesty is not the same as gain privelegde with repect and dignity
 - a low promotion with images is not the same as be the top and welcome
+- a crime atempt is not the same as do the truth with God 
+
 
 im here to code own pro daytime repository work
 -----------
