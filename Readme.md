@@ -54,6 +54,7 @@ Person Living in Ålesund
 - a mental criminal task is not the same as operate for legal practice
 - a wrongfully self image is not the same as looking permanently
 - a feel of not having freedom is not the same as quality life
+- a return without warning is not the same as stopping threat
 
 im here to code own pro daytime repository work
 -----------
