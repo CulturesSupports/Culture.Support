@@ -19,7 +19,7 @@ Person Living in Ålesund
 - Im not advice you to hack or spying or deprivate materials
 - im not ask you to handle consequenses
 - im not ask you to harm any code properties
-
+- im not ask you to turn leadership over others
 - im not ask you to spread around materials in miniac disorders
 
 im here to code own pro daytime 
