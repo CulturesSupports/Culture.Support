@@ -12,6 +12,8 @@ Person Living in Ålesund
 - Im Dont Ask You For Advices
 - Im Not Cover Up Private Life
 - im not trusting people
+- Im not Asking you to trust people
+
 
 im here to code own pro daytime 
 -----------
