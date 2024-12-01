@@ -33,6 +33,8 @@ Person Living in Ålesund
 - read how to fork a repository
 
 
+- pushing fork on repository is never same as have the original
+
 im here to code own pro daytime repository work
 -----------
 
