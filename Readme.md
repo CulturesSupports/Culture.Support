@@ -22,7 +22,15 @@ Person Living in Ålesund
 - im not ask you to turn leadership over others
 - im not ask you to spread around materials in miniac disorders
 
-im here to code own pro daytime 
+----------------
+
+- operate under only whats inside github documentation
+  of how to manage github safe and respectfull
+
+
+
+
+im here to code own pro daytime repository work
 -----------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=culturessupports&label=Profile%20views&color=0e75b6&style=flat" alt="culturessupports" /> </p>
