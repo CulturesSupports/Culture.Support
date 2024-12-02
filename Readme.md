@@ -3,6 +3,9 @@ Person Living in Ålesund
 
 - Develops Repository
 
+
+[![pages-build-deployment](https://github.com/CulturesSupports/Culture.Support/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/CulturesSupports/Culture.Support/actions/workflows/pages/pages-build-deployment)
+
 -----------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=culturessupports&label=Profile%20views&color=0e75b6&style=flat" alt="culturessupports" /> </p>
