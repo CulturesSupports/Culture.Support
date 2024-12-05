@@ -4,8 +4,8 @@
   "lastName": "Learning",
  "serverName": "Localhost",
   "cliName": "Bash",
-  "codeName": "codeblock",
-  "frameworkName": "Tensorflow",
+  "codeName": "Codeblock",
+  "libName": "Tensorflow",
 }
 ```
 
