@@ -1,3 +1,10 @@
+
+
+>  finding code repository
+> running code test
+https://colab.research.google.com/
+
+
 ```
 a json file
 a json instruction
@@ -13,6 +20,7 @@ a json instruction
   "codeName": "Codeblock",
   "libName": "Tensorflow",
   "versionCli": "2.0",
+    "chatprompts": "text"
 }
 ```
 
