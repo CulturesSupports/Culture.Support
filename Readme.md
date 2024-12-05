@@ -3,13 +3,9 @@
   "firstName": "Machine",
   "lastName": "Learning",
  "serverName": "Localhost",
-
   "cliName": "Bash",
-
   "codeName": "codeblock",
-
-  "frameworkName":  "Tensorflow", 
-
+  "frameworkName":  "Tensorflow",
 }
 ```
 
