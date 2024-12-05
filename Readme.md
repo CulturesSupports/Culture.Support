@@ -21,6 +21,8 @@ network connection as distribiuted
 free internett both online and
 offline in 1 tbs networks
 
+> no need of toxic broadband lines digging
+
 ```
 a json file
 a json instruction
