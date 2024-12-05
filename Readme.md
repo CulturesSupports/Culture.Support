@@ -15,6 +15,12 @@ with google cloud
 > config virtual cloud host as home
 router and dont need home fiber
 
+> adopting future technologies as
+using our website as the
+network connection as distribiuted
+free internett both online and
+offline in 1 tbs networks
+
 ```
 a json file
 a json instruction
