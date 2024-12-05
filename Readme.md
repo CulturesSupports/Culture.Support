@@ -1,7 +1,17 @@
 
-Person Living in Ålesund
+| Code Scheme      | Description |
+| ----------- | ----------- |
+| Generative Ai |   Text commmands |
+|  SQl Query | App Search   |
+| Database   | Server Software   |
 
-- Develops Repository
+
+
+| Data Table     | Tasks |
+| ----------- | ----------- |
+| Codes   | Generative Ai    |
+| Files     | Map      |
+| Command    | Bash Automation |
 
 
 [![pages-build-deployment](https://github.com/CulturesSupports/Culture.Support/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/CulturesSupports/Culture.Support/actions/workflows/pages/pages-build-deployment)
