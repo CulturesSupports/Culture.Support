@@ -11,6 +11,8 @@ https://cloud.google.com
 > cloud vpc = run cloud router from home
 home network from google cloud
 
+https://cloud.google.com/products/compute
+
 ```
 a json file
 a json instruction
