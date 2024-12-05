@@ -6,7 +6,7 @@
 
   "cliName": "Bash",
 
-  "source code": "codeblock",
+  "codeName": "codeblock",
 
   "frameworkName":  "Tensorflow", 
 
