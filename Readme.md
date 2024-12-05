@@ -1,3 +1,13 @@
+
+- [x] Updates Repository
+- [x] Update Official Website
+- [ ] Filming Computer Screen
+- [ ] Filming Mobile Screen
+- [x] Track Repository
+- [ ] Cancel Repository
+
+
+
 | Code Scheme      | Description |
 | ----------- | ----------- |
 | Generative Ai |   Text commmands |
