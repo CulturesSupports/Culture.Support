@@ -2,7 +2,7 @@
 {
   "firstName": "Machine",
   "lastName": "Learning",
- "serverName": "Neural Network",
+ "serverName": "Localhost",
 
   "cliName": "Bash",
 
