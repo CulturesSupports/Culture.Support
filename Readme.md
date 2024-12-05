@@ -1,3 +1,24 @@
+```json
+{
+  "firstName": "Machine",
+  "lastName": "Learning",
+ "serverName": "Neural Network",
+
+  "cliName": "Bash",
+
+  "source code": "codeblock",
+
+  "frameworkName":  "Tensorflow", 
+
+}
+```
+
+
+
+
+-------------
+
+
 
 - [x] Updates Repository
 - [x] Update Official Website
