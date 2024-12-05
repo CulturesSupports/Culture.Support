@@ -6,7 +6,20 @@
 - [x] Track Repository
 - [ ] Cancel Repository
 
+------------
 
+- [x] Tracking Suspect Activity
+- [x] Surveilance Monitoring
+- [x] Finding Spionage
+- [x] Finding Missing Persons
+- [x] Calling 50 Countries
+- [x] Search Phising Sources
+- [x] Observing False 5G Basestation
+- [x] Discovers Anonymous
+- [ ] Find Dark Web
+- [ ] Uses Dark Web
+
+-------------
 
 | Code Scheme      | Description |
 | ----------- | ----------- |
