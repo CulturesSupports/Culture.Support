@@ -1,8 +1,8 @@
 
 - [x] Updates Repository
 - [x] Update Official Website
-- [ ] Filming Computer Screen
-- [ ] Filming Mobile Screen
+- [x] Filming Computer Screen
+- [x] Filming Mobile Screen
 - [x] Track Repository
 - [ ] Cancel Repository
 
