@@ -1,5 +1,0 @@
-            - name: Minify html files
-  # You may pin to the exact commit or the version.
-  # uses: text-adi/minifier-compressor-html-action@cff65c45ea6fab8586d1f48188f237b261e8c9d9
-  uses: text-adi/minifier-compressor-html-action@v2
-          
