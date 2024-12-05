@@ -6,7 +6,7 @@
   "cliName": "Bash",
   "codeName": "Codeblock",
   "libName": "Tensorflow",
-  "versionCli": "3.17",
+  "versionCli": "2.0",
 }
 ```
 
