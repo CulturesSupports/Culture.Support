@@ -5,6 +5,13 @@
 https://colab.research.google.com/
 
 
+> running cloud remote google
+https://cloud.google.com
+
+> run local router from cloud
+and get home speeds for 1 gigabit
+with google cloud
+
 ```
 a json file
 a json instruction
