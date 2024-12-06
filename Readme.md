@@ -1,5 +1,12 @@
 
 
+
+Setup Github issues 
+
+https://docs.github.com/en/issues
+
+-------------------------
+
 >  finding code repository
 > running code test
 https://colab.research.google.com/
