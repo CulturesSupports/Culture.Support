@@ -16,15 +16,15 @@ https://culturessupports.github.io/CulturesSupports/
 
 
 
-| abc    | def |
-| ------ | --------- |
-| bar    | baz       |
-| ------ | --------- |
-| bar    | baz       |
-| ------ | --------- |
-| bar    | baz       |
-| ------ | --------- |
-| bar    | baz       |
+| Hosting    | Description  |
+| ------     | ---------    |
+| Server     | baz       |
+| ------     | --------- |
+| Network    | baz       |
+| ------     | --------- |
+| SSH        | terminal  |
+| ------     | --------- |
+| Curl       | bash      |
 
 
  
