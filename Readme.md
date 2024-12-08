@@ -11,7 +11,7 @@ https://culturessupports.github.io/ServerHosting/
 > the official repository website under working progress 
 > For Projects on Github
 
-https://culturessupports.github.io/culturessupports
+https://culturessupports.github.io/CulturesSupports/
 
 
  
