@@ -32,7 +32,7 @@ https://culturessupports.github.io/CulturesSupports/
 | Download   | Command       |
 | ---------- | ------------- |
 | wget       |    [x]  |
-| Curl       |  [x]  |
+| cURL       |  [x]  |
 
  
 --------------------------------------
