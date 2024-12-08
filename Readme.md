@@ -25,7 +25,7 @@ https://culturessupports.github.io/CulturesSupports/
 | ssh        | terminal      |
 | website    | remote server |
 | Curl       | bash          |
-| cloud      | cloud vpc     |
+| Cloud      |  Cloud (VPC)  |
 
  
 --------------------------------------
