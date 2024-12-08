@@ -21,7 +21,7 @@ https://culturessupports.github.io/CulturesSupports/
 | Server     | localhost     |
 | ------     | ------------- |
 | Network    | Portforward   |
-| ---------- | ------------- |
+| Meta Data  | Sub System    |
 | ssh        | terminal      |
 | ---------- | ------------- |
 | Curl       | bash          |
