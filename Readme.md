@@ -19,7 +19,7 @@ https://culturessupports.github.io/CulturesSupports/
 | Hosting    | Description   |
 | ---------- | ------------- |
 | Server     | localhost     |
-| ------     | ------------- |
+| Node js    | Node Js       |
 | Network    | Portforward   |
 | Meta Data  | Sub System    |
 | ssh        | terminal      |
