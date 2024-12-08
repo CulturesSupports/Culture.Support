@@ -27,6 +27,13 @@ https://culturessupports.github.io/CulturesSupports/
 | Curl       | bash          |
 | Cloud      |  Cloud (VPC)  |
 
+
+
+| Download   | Command       |
+| ---------- | ------------- |
+| wget       |    [x]  |
+| Curl       |  [x]  |
+
  
 --------------------------------------
 
