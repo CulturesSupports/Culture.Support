@@ -31,8 +31,8 @@ https://culturessupports.github.io/CulturesSupports/
 
 | Download   | Command       |
 | ---------- | ------------- |
-| wget       |    [x]  |
-| cURL       |  [x]  |
+| wget       |    [ x ]  |
+| cURL       |  [ x ]  |
 
  
 --------------------------------------
