@@ -19,11 +19,11 @@ https://culturessupports.github.io/CulturesSupports/
 | Hosting    | Description   |
 | ------     | ---------     |
 | Server     | localhost     |
-| ------     | ---------     |
+| ------     | ------------- |
 | Network    | Portforward   |
-| ------     | ---------     |
+| ---------- | ------------- |
 | SSH        | terminal      |
-| ------     | ---------     |
+| ---------- | ------------- |
 | Curl       | bash          |
 
 
