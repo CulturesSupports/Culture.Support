@@ -108,4 +108,8 @@ https://docs.github.com/en/issues
  > [!CAUTION]
 - [x] Report Eco Crimes
 - [x] Report Scams
+- [x] Hate Family
 - [x] Make idiot Stay away
+- [x] Make Corrupt idiots Struggle
+- [x] Make Corrupt idiots Reported for crime
+- [x] Make Hater Go In Jail
