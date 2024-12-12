@@ -256,18 +256,27 @@ Go To Jail
 
 ---------------
 
+### End it All
+
 > [!WARNING]
-> Stop Write Language so people dont understand it
+> Stop Write Language
+> 
+>  dont understand it
 
 > [!WARNING]
 > Stop Write
+> 
 > Text to Read
+> 
 > Stop Rest of Life
 
 > [!WARNING]
 > Stop Words
+> 
 > Stop Text
+> 
 > Stopp Messages
+> 
 > Stop Speak
 
 
