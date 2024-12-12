@@ -72,7 +72,10 @@ built inside website
 
 ```
 
-Norway is the land of the mental illness voices danger Country
+Norway is the
+land of the
+mental illness
+voices danger Country
 
 ```
 
@@ -80,7 +83,10 @@ Norway is the land of the mental illness voices danger Country
 
 ```
 
-Norway Sends You into Mental Hearing Voices Scizophrenia
+Norway Sends
+You into
+Mental Hearing
+Voices Scizophrenia
 
 ```
 
@@ -88,13 +94,15 @@ Norway Sends You into Mental Hearing Voices Scizophrenia
 ```
 
 
-Norway is Growing Scizophrenia Voices
+Norway is Growing
+Scizophrenia Voices
 
 ```
 
 ```
 
-Norway is the land of mental
+Norway is the
+land of mental
 Ghost voices
 
 ```
@@ -102,7 +110,10 @@ Ghost voices
 
 ```
 
-Norway is Occupied with scary mental spiritual mindsets
+Norway is
+Occupied with
+scary mental
+spiritual mindsets
 
 ```
 
@@ -118,11 +129,19 @@ Your Head
 
 ```
 
-Norway is Giving You A Years of Life with Spirit Mind Attacks ,
-if they see you alive ,
+Norway is Giving
+You Years of
+Life with Spirit
+Mind Attacks ,
+if they see
+you alive .
 
-- Ghosts is haunting your mind spirit
-brain with mental voices telling things to be afraid of
+Ghosts is haunting
+your mind spirit
+brain with
+mental voices
+telling things
+to be afraid of
 
 
 
@@ -134,10 +153,21 @@ brain with mental voices telling things to be afraid of
 
 ```
 
-You are A Trusted soul if you have spirits who want you into
-exorsism and membership
+You are a
+Trusted soul
+if you have
+spirits who
+want you into
+exorsism and
+membership
 of the
-mind mental voices speaking inside you to let you have heard alot of words around your mind
+mind mental
+voices speaking
+inside you to
+let you have
+heard alot of
+words around
+your mind
 
 ```
 
