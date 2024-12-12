@@ -141,4 +141,19 @@ Go To Jail
 > Make No Friendship
 
 
+> [!CAUTION]
+> Never Have Heroes
+
+> [!WARNING]
+> Never Accept Life 
+
+
+
+> [!CAUTION]
+> Never Like People
+
+> [!WARNING]
+> Never Be With People
+
+
 
