@@ -19,10 +19,10 @@ https://culturessupports.github.io/CulturesSupports/
 ---------------
 
 | Hosting    | Description   |
-| --------  | ---------- | 
-| Projects  |
-
-
+| --------  |  ------------- | 
+| Projects                   |
+| Repository Monitoring             |
+| Project Scaling            |
 
 
 | Download   | Command       |
