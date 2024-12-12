@@ -111,12 +111,24 @@ https://docs.github.com/en/issues
 > [!WARNING]
 > Report Economy Crimes
 
-> Report Scams
-> Report investor criminal
-> Report Investment Ponzies
-> 
+
+> [!CAUTION]
+> Report Evasion Swindle
+
+> [!WARNING]
+> Report Economy Bribery
+
+
+> [!CAUTION]
+> Stop Friendship
+
+> [!WARNING]
+> Stop Governments
+
 - [x] Hate Family
-- [x] Make idiot Stay away
+- [x] Make idiots Stay away
+- [x] Stop Friendships
 - [x] Make Corrupt idiots Struggle
-- [x] Make Corrupt idiots Reported for crime
-- [x] Make Hater Go In Jail
+- [x] Make Corrupt idiots Reported for Corruption
+- [x] Make Corrupt Money Swindlers
+Arrested
