@@ -16,3 +16,13 @@ built inside website
 | Player          | List |
 | Time            | Play |
 | Cue             | Loop |
+
+
+--------------------
+
+| Norway is sick | 
+| ---------------|
+| Norway is Banned |
+| Norway is BlackListed |
+| Norway is Prohobited |
+| Norway is Criminal |
