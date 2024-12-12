@@ -15,3 +15,4 @@ built inside website
 | Playlist        | Live |
 | Player          | List |
 | Time            | Play |
+| Cue             | Loop |
