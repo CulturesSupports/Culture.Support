@@ -16,17 +16,11 @@ https://culturessupports.github.io/ServerHosting/
 https://culturessupports.github.io/CulturesSupports/
 
 
-
+---------------
 
 | Hosting    | Description   |
-| ---------- | ------------- |
-| Server     | localhost     |
-| Node js    | local server  |
-| Network    | Portforward   |
-| Meta Data  | Sub System    |
-| ssh        | terminal      |
-| website    | remote server |
-| Curl       | bash          |
+| --------  | ---------- | 
+| Projects  |
 
 
 
