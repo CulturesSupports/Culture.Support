@@ -12,3 +12,6 @@ built inside website
 | Music Dj Player | Track |
 |-----------------| ------|
 | Streaming       | Artist |
+| Playlist        | Live |
+| Player          | List |
+| Time            | Play |
