@@ -161,12 +161,12 @@ Go To Jail
 
 
 > [!CAUTION]
-> Never Like Work
+> Never Like Workplaces
 
 > [!WARNING]
 > Make No Communictions
 
-
+-------------
 
 
 > [!CAUTION]
@@ -175,11 +175,20 @@ Go To Jail
 > [!WARNING]
 > Dont Trust Anybody
 
-
+------------
 
 > [!CAUTION]
-> Never Ask
+> Never Ask Me
 
 > [!WARNING]
 > Dont Tell Me
+
+
+----------------
+
+> [!CAUTION]
+> All Things is Danger
+
+> [!WARNING]
+> All Things is Warnings
 
