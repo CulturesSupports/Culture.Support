@@ -7,3 +7,8 @@ without installing something
 
 Dj Browser Console
 built inside website
+
+
+| Music Dj Player | Track |
+|-----------------| ------|
+| Streaming       | Artist |
