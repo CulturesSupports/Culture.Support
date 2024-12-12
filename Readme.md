@@ -106,12 +106,13 @@ https://docs.github.com/en/issues
 
 
 > [!CAUTION]
+> Report Swindle Of Government
 > [!WARNING]
-
-> Report Econom Crimes
+> Econom Crimes
 > Report Scams
 > Report investor criminal
 > Report Investment Ponzies
+> 
 - [x] Hate Family
 - [x] Make idiot Stay away
 - [x] Make Corrupt idiots Struggle
