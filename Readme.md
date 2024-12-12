@@ -18,7 +18,7 @@ https://culturessupports.github.io/CulturesSupports/
 
 ---------------
 
-| Hosting    | Description   |
+| Projects Start    | Description   |
 | --------  |  ------------- | 
 | Projects                   |
 | Repository Monitoring             |
