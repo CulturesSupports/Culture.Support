@@ -161,7 +161,7 @@ Go To Jail
 
 
 > [!CAUTION]
-> Never Let A Idiot Be Friend
+> Never Like Work
 
 > [!WARNING]
 > Make No Communictions
@@ -173,5 +173,13 @@ Go To Jail
 > Stop All Thinking Of Positive
 
 > [!WARNING]
-> Make Sure Hunger Explode
+> Dont Trust Anybody
+
+
+
+> [!CAUTION]
+> Never Ask
+
+> [!WARNING]
+> Dont Tell Me
 
