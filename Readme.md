@@ -128,7 +128,17 @@ https://docs.github.com/en/issues
 - [x] Hate Family
 - [x] Make idiots Stay away
 - [x] Stop Friendships
-- [x] Make Corrupt idiots Struggle
-- [x] Make Corrupt idiots Reported for Corruption
+- [x] Make No Friendship
 - [x] Make Corrupt Money Swindlers
-Arrested
+Go To Jail
+- [x] Make People Regret
+
+
+> [!CAUTION]
+> Stop All Friendship Signs
+
+> [!WARNING]
+> Make No Friendship
+
+
+
