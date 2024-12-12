@@ -25,13 +25,13 @@ https://culturessupports.github.io/CulturesSupports/
 | ssh        | terminal      |
 | website    | remote server |
 | Curl       | bash          |
-| Cloud      |  Cloud (VPC)  |
+
 
 
 
 | Download   | Command       |
 | ---------- | ------------- |
-| wget       |  wget image |
+| wget       |  wget filename|
 | cURL       |  curl url link |
 
  
@@ -65,40 +65,12 @@ https://docs.github.com/en/issues
 
 -------------------------
 
->  finding code repository
-> running code test
-https://colab.research.google.com/
+- [x] Installation Guide
 
-
-> running cloud remote google
-https://cloud.google.com
-
-> cloud vpc = run cloud router from home
-home network from google cloud
-
-https://cloud.google.com/products/compute
-
-```
-a json file
-a json instruction
-
-```
-
-```json
-{
-  "firstName": "Machine",
-  "lastName": "Learning",
- "serverName": "Localhost",
-  "cliName": "Bash",
-  "codeName": "Codeblock",
-  "libName": "Tensorflow",
-  "versionCli": "2.0",
-    "chatprompts": "text"
-}
-```
-
-
-
+- [x] Installation Run
+- [x] Installation Library
+- [x] Installation Template
+- [x] Installation App
 
 -------------
 
