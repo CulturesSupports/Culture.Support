@@ -199,3 +199,61 @@ Go To Jail
 
 > [!WARNING]
 > All Time is Warnings
+
+
+----------------
+
+
+
+> [!CAUTION]
+> Nobody is Evidence
+
+> [!WARNING]
+> Nobody is Important
+
+> [!CAUTION]
+> No Humans Liked
+
+> [!WARNING]
+> Nobody is Respected
+
+-----------------
+
+> [!CAUTION]
+> Repeat Stop Ideology
+
+> [!WARNING]
+> Repeat Delete ideology
+
+--------------------
+
+
+> [!CAUTION]
+> Repeat Delete Words
+
+> [!WARNING]
+> Repeat Delete Names
+
+
+> [!CAUTION]
+> Delete Names
+
+> [!WARNING]
+> Delete Interests
+
+> [!CAUTION]
+> All Deleted 
+
+> [!WARNING]
+> All Time is Deleted
+
+
+> [!CAUTION]
+> Erase Happy Life
+
+> [!WARNING]
+> Erase Automatic Sign of People
+
+
+
+
