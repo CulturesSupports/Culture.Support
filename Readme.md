@@ -102,27 +102,26 @@ a json instruction
 
 -------------
 
+### Profile FaQ
 
 
 - [x] Updates Repository
-- [x] Update Official Website
-- [x] Filming Computer Screen
-- [x] Filming Mobile Screen
+- [x] Update Github Pages
+- [x] Update Code Repository
+- [x] Design Professional
 - [x] Track Repository
 - [ ] Cancel Repository
 
 ------------
 
-- [x] Tracking Suspect Activity
-- [x] Surveilance Monitoring
-- [x] Finding Spionage
-- [x] Finding Missing Persons
-- [x] Calling 50 Countries
-- [x] Search Phising Sources
-- [x] Observing False 5G Basestation
-- [x] Discovers Anonymous
-- [ ] Find Dark Web
-- [ ] Uses Dark Web
+- [x] Github Workspace
+
+- [x] Github Documentation
+
+- [x] Github Search
+
+- [x] Github Fork
+- [ ] Github Star
 
 -------------
 
