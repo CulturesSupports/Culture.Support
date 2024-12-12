@@ -1,4 +1,9 @@
 https://dj.beatport.com
 
-mix dj in player on desktop pc or laptop
+mix as dj in player on desktop pc or laptop
 without installing something
+
+--------
+
+profesionall Dj mix Browser Console
+built inside website
