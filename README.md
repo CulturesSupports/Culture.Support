@@ -40,4 +40,13 @@ built inside website
 | Norway is Threat |
 | Norway is Mental Danger |
 
+-------------------
+
+| Norway is Sabotage | 
+| ---------------|
+| Norway is Mental Crap |
+| Norway is Violent |
+| Norway is Suicide |
+| Norway is Scandals |
+
 
