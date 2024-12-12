@@ -109,7 +109,9 @@ Norway is Occupied with scary mental spiritual mindsets
 ```
 
 Norway ia Collecting
-Spirit Mental Voices in Your Head
+Spirit Mental
+Voices in 
+Your Head
 
 ```
 
