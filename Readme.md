@@ -40,7 +40,8 @@ https://culturessupports.github.io/CulturesSupports/
 > Make Sure We Enduring Content For Priority of Service Adoptions
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> A Tip is to Focus on Internal
+
 
 > [!IMPORTANT]
 > Key information we in staff need to consider performance unleashed
