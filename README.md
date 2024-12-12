@@ -57,3 +57,99 @@ built inside website
 | Norway is Scandals |
 
 
+-----------------
+
+| Norway is Chaotic |
+| Norway is Afraid |
+| Norway is Crisis |
+| Norway is Mental Voices |
+| NorwaY IS NO controll |
+| Norway Self sabotage |
+| Norway Planned Psychosis |
+| Norway is Not Education |
+
+
+
+```
+
+Norway is the land of the mental illness voices danger Country
+
+```
+
+
+
+```
+
+Norway Sends You into Mental Hearing Voices Scizophrenia
+
+```
+
+
+```
+
+
+Norway is Growing Scizophrenia Voices
+
+```
+
+```
+
+Norway is the land of mental
+Ghost voices
+
+```
+
+
+```
+
+Norway is Occupied with scary mental spiritual mindsets
+
+```
+
+```
+
+Norway ia Collecting
+Spirit Mental Voices in Your Head
+
+```
+
+
+```
+
+Norway is Giving You A Years of Life with Spirit Mind Attacks ,
+if they see you alive ,
+
+- Ghosts is haunting your mind spirit
+brain with mental voices telling things to be afraid of
+
+
+
+```
+
+
+
+
+
+```
+
+You are A Trusted soul if you have spirits who want you into
+exorsism and membership
+of the
+mind mental voices speaking inside you to let you have heard alot of words around your mind
+
+```
+
+
+<
+< Psychosis is Because of Norway mental voices groups of people
+<
+<
+
+
+
+
+
+
+
+
+
