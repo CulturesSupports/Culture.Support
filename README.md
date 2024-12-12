@@ -20,6 +20,13 @@ built inside website
 
 --------------------
 
+
+### Norway is Murder Psychosis
+### Norway Us Mental Danger
+
+
+--------------------
+
 | Norway is sick | 
 | ---------------|
 | Norway is Banned |
