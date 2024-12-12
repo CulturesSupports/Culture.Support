@@ -121,7 +121,11 @@ a json instruction
 - [x] Github Search
 
 - [x] Github Fork
-- [ ] Github Star
+- [x] Github Star
+- [x] Github Workspace
+- [x] Github Tracks
+
+- [ ] 
 
 -------------
 
