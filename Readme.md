@@ -18,11 +18,14 @@ https://culturessupports.github.io/CulturesSupports/
 
 ---------------
 
-| Projects Start    | Description   |
-| --------  |  ------------- | 
-| Projects                   |
-| Repository Monitoring             |
-| Project Scaling            |
+| Project Status | Description   |
+| --------       | ----------    | 
+| Projects                       |
+| Repository Monitoring          
+| Project Scaling             |
+| Server Resource Analysis    |
+| Server Boot Improvements    |
+
 
 
 | Download   | Command       |
