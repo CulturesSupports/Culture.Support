@@ -26,3 +26,18 @@ built inside website
 | Norway is BlackListed |
 | Norway is Prohobited |
 | Norway is Criminal |
+
+
+-----------------
+
+| Norway is A Scam | 
+| ---------------|
+| Norway is Crime Wave |
+| Norway is Terror Politica |
+| Norway is Corrupted |
+| Norway is Fake  |
+| Norway is Danger |
+| Norway is Threat |
+| Norway is Mental Danger |
+
+
