@@ -157,3 +157,21 @@ Go To Jail
 
 
 
+--------------------
+
+
+> [!CAUTION]
+> Never Let A Idiot Be Friend
+
+> [!WARNING]
+> Make No Communictions
+
+
+
+
+> [!CAUTION]
+> Stop All Thinking Of Positive
+
+> [!WARNING]
+> Make Sure Hunger Explode
+
