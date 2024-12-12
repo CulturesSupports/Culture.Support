@@ -254,6 +254,20 @@ Go To Jail
 > [!WARNING]
 > Erase Automatic Sign of People
 
+---------------
+
+> [!WARNING]
+> Stop Write Language so people dont understand it
+
+> [!WARNING]
+> Stop Write Text to Read Rest of Life
+
+> [!WARNING]
+> Stop Words , Stop Text , Stopp Messages
+> Stop Speak
+
+
+
 
 
 
