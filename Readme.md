@@ -26,7 +26,7 @@ https://culturessupports.github.io/CulturesSupports/
 | Server Resource Analysis    |
 | Server Boot Improvements    |
 
-
+| Terminal Script  Commands    |
 
 | Download   | Command       |
 | ---------- | ------------- |
