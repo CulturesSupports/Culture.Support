@@ -25,7 +25,7 @@ https://culturessupports.github.io/CulturesSupports/
 | Project Scaling             |
 | Server Resource Analysis    |
 | Server Boot Improvements    |
-
+| Terminal Surveilance    |
 | Terminal Script  Commands    |
 
 | Download   | Command       |
