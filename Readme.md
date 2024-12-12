@@ -106,8 +106,12 @@ https://docs.github.com/en/issues
 
 
 > [!CAUTION]
+> [!WARNING]
+
 > Report Econom Crimes
-- [x] Report Scams
+> Report Scams
+> Report investor criminal
+> Report Investment Ponzies
 - [x] Hate Family
 - [x] Make idiot Stay away
 - [x] Make Corrupt idiots Struggle
