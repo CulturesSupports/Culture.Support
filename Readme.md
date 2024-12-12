@@ -107,8 +107,10 @@ https://docs.github.com/en/issues
 
 > [!CAUTION]
 > Report Swindle Of Government
+
 > [!WARNING]
-> Econom Crimes
+> Report Economy Crimes
+
 > Report Scams
 > Report investor criminal
 > Report Investment Ponzies
