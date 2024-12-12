@@ -5,5 +5,5 @@ without installing something
 
 --------
 
-profesionall Dj mix Browser Console
+Dj Browser Console
 built inside website
