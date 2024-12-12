@@ -192,3 +192,10 @@ Go To Jail
 > [!WARNING]
 > All Things is Warnings
 
+
+
+> [!CAUTION]
+> All Hours is Danger
+
+> [!WARNING]
+> All Time is Warnings
