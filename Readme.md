@@ -260,10 +260,14 @@ Go To Jail
 > Stop Write Language so people dont understand it
 
 > [!WARNING]
-> Stop Write Text to Read Rest of Life
+> Stop Write
+> Text to Read
+> Stop Rest of Life
 
 > [!WARNING]
-> Stop Words , Stop Text , Stopp Messages
+> Stop Words
+> Stop Text
+> Stopp Messages
 > Stop Speak
 
 
