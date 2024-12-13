@@ -202,4 +202,13 @@ terrahertz stalking harrasment
 > We See Army stalking with terrahertz against humans
 > to stalking them and murder the
 with stalking
+>
+> they atempting
+psychic murders on humans
 
+- they killing psychic humans
+  secretly
+
+  > usa is doing crime terror on civil humans and terraherz murder attempts civil persons in eu
+
+![image](https://github.com/user-attachments/assets/0214ccb4-5ee1-4ef4-9c78-4a396e72f3aa)
