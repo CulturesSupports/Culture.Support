@@ -10,6 +10,10 @@
 
 ![image](https://github.com/user-attachments/assets/0c81399b-61a9-4be2-be7d-f7b642b5be67)
 
+![image](https://github.com/user-attachments/assets/aa3a611e-0c85-4e13-967c-66e5e65f0907)
+
+
+
 ### This is Down Syndrome
 ### Stalker News
 
