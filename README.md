@@ -76,3 +76,14 @@ access of criminals
 
 ![image](https://github.com/user-attachments/assets/bfabf448-8c33-4f47-9da1-383c26a9afc6)
 
+
+
+
+
+-------------- 
+
+Crime spot filters
+
+ ![image](https://github.com/user-attachments/assets/b505f31c-2f61-4091-8127-6ee4ccfa581b)
+
+
