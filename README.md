@@ -26,6 +26,8 @@
 - [x] Udate Large
       Language Models
 - [x] Update Natural Language Processing
+
+- [ ] 
 - [x] Update Traing
 - [ ] Neural Networks
 - [x] Neural Density Pools
@@ -57,6 +59,11 @@ Scammer
 - [x] Educating to Block
 access of criminals
 - [x] Using Block Triggers
+- [ ] Finding Roots of Society Swindle
+- [ ] Finding Exploits
+- [x] Finding Reminder Networks of Crimes
+- [ ] Updates Criminals Repeat Crimes
+- [ ] Update Map location Coverage
 
 
 
