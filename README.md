@@ -43,7 +43,7 @@ of humans
 > making human illness with mental health
 > human become targeted and
 plagued with electronic harrasment
-technlogy
+technology
 
 
 > this technologies harming
@@ -71,16 +71,17 @@ by the usa
 
 - [x] Udate Large
       Language Models
+      
 - [x] Update Natural Language Processing
 
-- [ ] 
-- [x] Update Traing
-- [ ] Neural Networks
+- [x] Update Human voice
+- [x] Update Training
+ - [x]  Neural Networks
 - [x] Neural Density Pools
 - [x] Track CRIMINAL frauders
-- [ ] Tracking Swindlers
-- [ ] Lifetime Detections
-- [ ] Lifetime Surveilance ai
+- [x] Tracking Swindlers
+- [x] Lifetime Detections
+- [x] Lifetime Surveilance ai
 
 
 
@@ -105,14 +106,14 @@ Scammer
 - [x] Educating to Block
 access of criminals
 - [x] Using Block Triggers
-- [ ] Finding Roots of Society Swindle
-- [ ] Finding Exploits
+- [x] Finding Roots of Society Swindle
+- [x] Finding Exploits
 - [x] Finding Reminder Networks of Crimes
-- [ ] Updates Criminals Repeat Crimes
-- [ ] Update Map location Coverage
-- [ ] Update Density Map Log Filters
-- [ ] Updates Wide Scale Map Filters
-- [ ] Update Area Position Filter Classed
+- [x] Updates Criminals Repeat Crimes
+- [x] Update Map location Coverage
+- [x] Update Density Map Log Filters
+- [x] Updates Wide Scale Map Filters
+- [x] Update Area Position Filter Classed
 - [x] Live Spot Detections
 - [x] Anominal Detections
 - [x] Lifetime Criminal Money Tracking
@@ -143,7 +144,7 @@ Psychic Crime Filters
 
 
 Psychic Criminal Controll From Space Satelite Lasers on Persons Body
-
+and finding persons head and listening to what people thinking
 
 
 ![image](https://github.com/user-attachments/assets/70431cdb-735e-4b96-a3b4-bf647ff2452a)
