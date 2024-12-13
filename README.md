@@ -146,9 +146,18 @@ covering criminal psychic technology in Esp spionage and Satelite Psychich terro
 
 
 > Space psychic mind reading of
-persons walking and thelephaty
+persons walking and sending
+mind communication telekinesis
+> its making psychic
+mind to mind communication
+> hearing what persons thinking
+> hearing fake spiritual thinking
+
+
+-------------
+
 - mind to mind communication linking
-- making mind listening paychic sensory
+- making mind listening psychic sensory
 - making people targeted to hear voices even not together in 120 miles distanses
 
 ![image](https://github.com/user-attachments/assets/4979e7c4-90fa-4e11-9ca8-d1a9cf422160)
