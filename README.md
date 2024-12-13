@@ -179,3 +179,16 @@ words
 and enabler of making people
 electronic harrasmented
 
+
+![image](https://github.com/user-attachments/assets/7d4ddd60-c216-4239-8e5c-1d12a8f69e78)
+
+
+> are you been taken into
+psychic mental health programs
+
+> you entering these mental health
+targeted harrasments
+
+> a sign your have mental voices
+is that you are in this
+terrahertz stalking harrasment
