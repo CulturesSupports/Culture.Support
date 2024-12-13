@@ -212,3 +212,25 @@ psychic murders on humans
   > usa is doing crime terror on civil humans and terraherz murder attempts civil persons in eu
 
 ![image](https://github.com/user-attachments/assets/0214ccb4-5ee1-4ef4-9c78-4a396e72f3aa)
+
+
+
+![image](https://github.com/user-attachments/assets/009ff374-ef72-4767-9434-7657335bb2b3)
+
+
+This is the mind controll
+program by deffence
+
+- making human terrorist
+- making humans do evil
+- making mind manipulations
+- making humans have sex with
+  sisters and siblings
+
+  - making human to love affairs
+    - making manipulation of thinking and dreamS
+    - making humans mind linked
+    - making mind of humans listened around the planet
+    - making humans electronic harrasments
+
+
