@@ -158,6 +158,12 @@ and finding persons head and listening to what people thinking
 
 covering criminal psychic technology in Esp spionage and Satelite Psychich terror
 
+
+
+-------------------
+
+--------------------
+
 ![image](https://github.com/user-attachments/assets/163c00a3-0b8f-49b1-b54b-af8b68d3c0f1)
 
 
