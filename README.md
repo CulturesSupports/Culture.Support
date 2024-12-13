@@ -49,3 +49,14 @@ Networks
 Criminal Network Exposure
 - [x] Using Organisation
       Lock Modes Against Scams
+
+
+
+
+Scammer
+- [x] Educating to Block
+access of criminals
+- [x] Using Block Triggers
+
+
+
