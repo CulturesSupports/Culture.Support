@@ -106,3 +106,17 @@ covering criminal psychic technology in Esp spionage and Satelite Psychich terro
 
 ![image](https://github.com/user-attachments/assets/163c00a3-0b8f-49b1-b54b-af8b68d3c0f1)
 
+
+
+
+![image](https://github.com/user-attachments/assets/5ee60453-b93e-44b9-b94c-da493e3e89e7)
+
+
+
+
+![image](https://github.com/user-attachments/assets/c2ce1b1e-7dcc-4777-9a54-a434a5c3016c)
+
+
+![image](https://github.com/user-attachments/assets/b8509933-802e-439e-904b-8aa957169830)
+
+
