@@ -97,3 +97,12 @@ Psychic Crime Filters
 
 
 Psychic Criminal Controll From Space Satelite Lasers on Persons Body
+
+
+
+![image](https://github.com/user-attachments/assets/70431cdb-735e-4b96-a3b4-bf647ff2452a)
+
+covering criminal psychic technology in Esp spionage and Satelite Psychich terror
+
+![image](https://github.com/user-attachments/assets/163c00a3-0b8f-49b1-b54b-af8b68d3c0f1)
+
