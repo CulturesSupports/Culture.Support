@@ -20,7 +20,8 @@
 
 ------------
 
-
+> Big Backlog Desk
+> 
 
 - [x] Udate Large
       Language Models
@@ -32,3 +33,12 @@
 - [ ] Tracking Swindlers
 - [ ] Lifetime Detections
 - [ ] Lifetime Surveilance ai
+
+
+
+
+--------------
+
+Networks
+- [x] Finding Criminals
+- [x] Tracking Lifetime Crimes
