@@ -154,6 +154,10 @@ and finding persons head and listening to what people thinking
 ![image](https://github.com/user-attachments/assets/a1f2e407-2a74-4449-a3a1-199e10646ff8)
 
 
+![image](https://github.com/user-attachments/assets/81fb9563-07b3-4cad-bc93-52ac0c503349)
+
+
+
 -------------------
 
 -------------------
