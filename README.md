@@ -161,3 +161,21 @@ mind to mind communication
 
 ![image](https://github.com/user-attachments/assets/4979e7c4-90fa-4e11-9ca8-d1a9cf422160)
 
+
+-----------------
+
+> Terrahertz Mind reading Satelites
+
+![image](https://github.com/user-attachments/assets/f0f7a129-f53e-424b-9a96-7221e353793a)
+
+![image](https://github.com/user-attachments/assets/578cc984-18a8-427e-820f-1da65177800e)
+
+
+
+> Terrahertz radiation have
+capability to mind read humans and make fake mind thinking mental illness
+words
+> its psychich body manipulation
+and enabler of making people
+electronic harrasmented
+
