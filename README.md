@@ -17,7 +17,7 @@ of humans
 > making human illness with mental health
 > human become targeted and
 plagued with electronic harrasment
-technlogoies
+technlogy
 
 
 > this technologies harming
@@ -139,4 +139,17 @@ covering criminal psychic technology in Esp spionage and Satelite Psychich terro
 
 ![image](https://github.com/user-attachments/assets/b8509933-802e-439e-904b-8aa957169830)
 
+
+
+
+-----------------
+
+
+> Space psychic mind reading of
+persons walking and thelephaty
+- mind to mind communication linking
+- making mind listening paychic sensory
+- making people targeted to hear voices even not together in 120 miles distanses
+
+![image](https://github.com/user-attachments/assets/4979e7c4-90fa-4e11-9ca8-d1a9cf422160)
 
