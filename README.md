@@ -84,6 +84,9 @@ access of criminals
 
 Crime spot filters
 
+
+Psychic Crime Filters
+
  ![image](https://github.com/user-attachments/assets/b505f31c-2f61-4091-8127-6ee4ccfa581b)
 
 
