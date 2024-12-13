@@ -20,6 +20,11 @@ plagued with electronic harrasment
 technlogoies
 
 
+> this technologies harming
+and mind reading humans
+and sabotages human lifes secretly
+by the usa 
+
 --------------
 
 
