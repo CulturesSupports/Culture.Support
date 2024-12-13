@@ -13,6 +13,13 @@
 ![image](https://github.com/user-attachments/assets/75f808dc-8421-46ae-9b9f-5e876ec5d618)
 
 
+![image](https://github.com/user-attachments/assets/7da01317-46e3-4f6a-afe2-aba5ffb05dd4)
+
+
+
+![image](https://github.com/user-attachments/assets/b3610d80-f5ee-430b-b861-19f41af26f95)
+
+
 
 
 ### This is Down Syndrome
