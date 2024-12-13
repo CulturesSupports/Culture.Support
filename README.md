@@ -146,8 +146,12 @@ Psychic Crime Filters
 Psychic Criminal Controll From Space Satelite Lasers on Persons Body
 and finding persons head and listening to what people thinking
 
+![image](https://github.com/user-attachments/assets/1397d89c-2d67-4f94-8108-f3167fa3ccea)
+
+
 ![image](https://github.com/user-attachments/assets/541a2ed6-b377-44bf-a420-b589ed24507a)
 
+![image](https://github.com/user-attachments/assets/a1f2e407-2a74-4449-a3a1-199e10646ff8)
 
 
 ![image](https://github.com/user-attachments/assets/70431cdb-735e-4b96-a3b4-bf647ff2452a)
