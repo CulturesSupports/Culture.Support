@@ -64,6 +64,11 @@ access of criminals
 - [x] Finding Reminder Networks of Crimes
 - [ ] Updates Criminals Repeat Crimes
 - [ ] Update Map location Coverage
+- [ ] Update Density Map Log Filters
+- [ ] Updates Wide Scale Map Filters
+- [ ] Update Area Position Filter Classed
+- [x] Live Spot Detections
+- [x] Anominal Detections
 
-
+![image](https://github.com/user-attachments/assets/bfabf448-8c33-4f47-9da1-383c26a9afc6)
 
