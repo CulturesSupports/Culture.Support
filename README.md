@@ -69,6 +69,10 @@ access of criminals
 - [ ] Update Area Position Filter Classed
 - [x] Live Spot Detections
 - [x] Anominal Detections
+- [x] Lifetime Criminal Money Tracking
+- [x] Lifetime Exposure alarms
+
+
 
 ![image](https://github.com/user-attachments/assets/bfabf448-8c33-4f47-9da1-383c26a9afc6)
 
