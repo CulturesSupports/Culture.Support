@@ -192,3 +192,14 @@ targeted harrasments
 > a sign your have mental voices
 is that you are in this
 terrahertz stalking harrasment
+
+
+-----------------
+
+![image](https://github.com/user-attachments/assets/ba0a0d55-32a3-4e13-98c4-c6f4c2602a09)
+
+
+> We See Army stalking with terrahertz against humans
+> to stalking them and murder the
+with stalking
+
