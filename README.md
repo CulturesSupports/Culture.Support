@@ -7,10 +7,16 @@
  
 -------------
 
+
+>
+> Stay away if your a old pig
+
+
+
+
 ![image](https://github.com/user-attachments/assets/b8f49d67-b32b-4333-9288-ce0db1a05357)
 
 
-![image](https://github.com/user-attachments/assets/0c81399b-61a9-4be2-be7d-f7b642b5be67)
 
 ![image](https://github.com/user-attachments/assets/75f808dc-8421-46ae-9b9f-5e876ec5d618)
 
