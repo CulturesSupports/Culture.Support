@@ -7,6 +7,13 @@
  
 -------------
 
+
+![image](https://github.com/user-attachments/assets/0c81399b-61a9-4be2-be7d-f7b642b5be67)
+
+### This is Down Syndrome
+### Stalker News
+
+
 > covering finding espionage
 and secret psychic monitoring
 of humans 
