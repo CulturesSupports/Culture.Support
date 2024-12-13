@@ -90,3 +90,10 @@ Psychic Crime Filters
  ![image](https://github.com/user-attachments/assets/b505f31c-2f61-4091-8127-6ee4ccfa581b)
 
 
+
+
+![image](https://github.com/user-attachments/assets/f36876a5-13e1-4fae-be70-72a73780ed6a)
+
+
+
+Psychic Criminal Controll From Space Satelite Lasers on Persons Body
